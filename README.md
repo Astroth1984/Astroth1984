@@ -30,16 +30,35 @@ Here are some ideas to get you started:
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 
 
-### Technologies
+### Front-End Technologies
 
-![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
-![Postman](https://img.shields.io/badge/-Postman-000?&logo=Postman)
-![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-000?&logo=Elasticsearch)
-![Swagger](https://img.shields.io/badge/-Elasticsearch-000?&logo=Elasticsearch)
 ![Angular](https://img.shields.io/badge/-Swagger-000?&logo=Swagger)
 ![React.js](https://img.shields.io/badge/-React-000?&logo=React)
+
+### Back-End Technologies
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![Express](https://img.shields.io/badge/-Express-000?&logo=express)
+![Springboot](https://img.shields.io/badge/-Springboot-000?&logo=Springboot)
+
+### Data Bases
 ![Mongodb](https://img.shields.io/badge/-Mongodb-000?&logo=Mongodb)
 ![Postgresql](https://img.shields.io/badge/-Postgresql-000?&logo=Postgresql)
-![Springboot](https://img.shields.io/badge/-Springboot-000?&logo=Springboot)
+![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-000?&logo=Elasticsearch)
+![Oracle](https://img.shields.io/badge/-Oracle-000?&logo=Oracle)
+![SQLServer](https://img.shields.io/badge/-SQLServer-000?&logo=SQLServer)
+![AndroidStudio](https://img.shields.io/badge/-AndroidStudio-000?&logo=Android)
+
+### Tools
+![Postman](https://img.shields.io/badge/-Postman-000?&logo=Postman)
+![Swagger](https://img.shields.io/badge/-Swagger-000?&logo=Swagger)
+![VScode](https://img.shields.io/badge/-VScode-000?&logo=VScode)
+
+### OS
+![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
+![Windows](https://img.shields.io/badge/-Windows-000?&logo=Windows)
+
+
+
+
+
+
