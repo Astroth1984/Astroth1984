@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=SQL)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 
 
 ### Technologies
@@ -35,7 +35,8 @@ Here are some ideas to get you started:
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 ![Postman](https://img.shields.io/badge/-Postman-000?&logo=Postman)
 ![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-000?&logo=Elasticsearch)
-![Angular](https://img.shields.io/badge/-Angular-000?&logo=Angular)
+![Swagger](https://img.shields.io/badge/-Elasticsearch-000?&logo=Elasticsearch)
+![Angular](https://img.shields.io/badge/-Swagger-000?&logo=Swagger)
 ![React.js](https://img.shields.io/badge/-React-000?&logo=React)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![Express](https://img.shields.io/badge/-Express-000?&logo=express)
