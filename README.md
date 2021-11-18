@@ -30,17 +30,17 @@ Here are some ideas to get you started:
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 
 
-### Front-End Technologies
+### Front-End Frameworks
 
 ![Angular](https://img.shields.io/badge/-Angular-000?&logo=Angular)
 ![React.js](https://img.shields.io/badge/-React-000?&logo=React)
 
-### Back-End Technologies
+### Back-End Frameworks
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![Express](https://img.shields.io/badge/-Express-000?&logo=express)
 ![Springboot](https://img.shields.io/badge/-Springboot-000?&logo=Springboot)
 
-### Data Bases
+### DataBases
 ![Mongodb](https://img.shields.io/badge/-Mongodb-000?&logo=Mongodb)
 ![Postgresql](https://img.shields.io/badge/-Postgresql-000?&logo=Postgresql)
 ![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-000?&logo=Elasticsearch)
