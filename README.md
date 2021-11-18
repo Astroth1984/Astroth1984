@@ -46,12 +46,12 @@ Here are some ideas to get you started:
 ![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-000?&logo=Elasticsearch)
 ![Oracle](https://img.shields.io/badge/-Oracle-000?&logo=Oracle)
 ![SQLServer](https://img.shields.io/badge/-SQLServer-000?&logo=SQLServer)
-![AndroidStudio](https://img.shields.io/badge/-AndroidStudio-000?&logo=Android)
 
 ### Tools
 ![Postman](https://img.shields.io/badge/-Postman-000?&logo=Postman)
 ![Swagger](https://img.shields.io/badge/-Swagger-000?&logo=Swagger)
 ![VScode](https://img.shields.io/badge/-VScode-000?&logo=VisualStudio)
+![AndroidStudio](https://img.shields.io/badge/-AndroidStudio-000?&logo=Android)
 
 ### OS
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
