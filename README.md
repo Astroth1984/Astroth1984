@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 ### Technologies
 
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
-![Angular](https://img.shields.io/badge/-Angular-222?&logo=Angular)
+![Angular](https://img.shields.io/badge/-Angular-000?&logo=Angular)
 ![React.js](https://img.shields.io/badge/-React-000?&logo=React)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![Express](https://img.shields.io/badge/-Express-000?&logo=express)
