@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img alt="Visitors" src="https://komarev.com/ghpvc/?username=m0rp43us&style=flat&labelColor=black&logo=github&label=PROFILE+VIEWS&color=29bf12"/>
-<img alt="Last Commit" src="https://img.shields.io/github/last-commit/m0rp43us/m0rp43us?logo=markdown&label=LAST+UPDATE&color=29bf12&style=flat">
+<img alt="Visitors" src="https://komarev.com/ghpvc/?username=Astroth1984&style=flat&labelColor=black&logo=github&label=PROFILE+VIEWS&color=29bf12"/>
+<img alt="Last Commit" src="https://img.shields.io/github/last-commit/Astroth1984/Astroth1984?logo=markdown&label=LAST+UPDATE&color=29bf12&style=flat">
 
 ### Stats
 
