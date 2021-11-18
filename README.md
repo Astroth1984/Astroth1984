@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 ### Languages
 
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![TypeScript](https://img.shields.io/badge/-Python-000?&logo=TypeScript)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![Go](https://img.shields.io/badge/-Go-000?&logo=Go)
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
