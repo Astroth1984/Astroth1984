@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 ![Postgresql](https://img.shields.io/badge/-Postgresql-000?&logo=Postgresql)
 ![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-000?&logo=Elasticsearch)
 ![Oracle](https://img.shields.io/badge/-Oracle-000?&logo=Oracle)
-![SQLServer](https://img.shields.io/badge/-SQLServer-000?&logo=SqlServer)
+![SQLServer](https://img.shields.io/badge/-SQLServer-000?&logo=SQLserver)
 
 ### Tools
 ![Postman](https://img.shields.io/badge/-Postman-000?&logo=Postman)
