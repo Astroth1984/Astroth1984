@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 ### Front-End Technologies
 
-![Angular](https://img.shields.io/badge/-Swagger-000?&logo=Swagger)
+![Angular](https://img.shields.io/badge/-Angular-000?&logo=Angular)
 ![React.js](https://img.shields.io/badge/-React-000?&logo=React)
 
 ### Back-End Technologies
@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 ### Tools
 ![Postman](https://img.shields.io/badge/-Postman-000?&logo=Postman)
 ![Swagger](https://img.shields.io/badge/-Swagger-000?&logo=Swagger)
-![VScode](https://img.shields.io/badge/-VScode-000?&logo=VScode)
+![VScode](https://img.shields.io/badge/-VScode-000?&logo=VisualStudio)
 
 ### OS
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
