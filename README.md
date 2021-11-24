@@ -36,7 +36,6 @@ Here are some ideas to get you started:
 ![Angular](https://img.shields.io/badge/-Angular-000?&logo=Angular)
 ![React.js](https://img.shields.io/badge/-React-000?&logo=React)
 ![Redux](https://img.shields.io/badge/-Redux-000?&logo=Redux)
-![axios](https://img.shields.io/badge/-axios-000?&logo=axios)
 
 ### Back-End Frameworks
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
