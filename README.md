@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 -->
 
 <img alt="Visitors" src="https://komarev.com/ghpvc/?username=Astroth1984&style=flat&labelColor=black&logo=github&label=PROFILE+VIEWS&color=29bf12"/>
+![](https://komarev.com/ghpvc/?username=Astroth1984)
+![](https://badges.pufler.dev/visits/Astroth1984/Astroth1984?color=black&logo=github&style=flat-square)
 <img alt="Last Commit" src="https://img.shields.io/github/last-commit/Astroth1984/Astroth1984?logo=markdown&label=LAST+UPDATE&color=29bf12&style=flat">
 
 ### Stats
