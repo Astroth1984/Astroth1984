@@ -19,6 +19,14 @@ Here are some ideas to get you started:
 <a href="https://linkedin.com/in/abirelhalimi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="abir-el-halimi-6a404048" height="30" width="30" /></a>
 </p><br/>
 
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abirelhalimi" alt="abirelhalimi" /> </p>
+
+
+- 👨‍💻 All of my projects are available at [abirelhalimi.com](https://abirelhalimi.com)
+
+- 📫  **abirelhalimi@gmail.com**
+
 <img alt="Visitors" src="https://komarev.com/ghpvc/?username=Astroth1984&style=flat&labelColor=black&logo=github&label=PROFILE+VIEWS&color=29bf12"/>
 <img alt="Last Commit" src="https://img.shields.io/github/last-commit/Astroth1984/Astroth1984?logo=markdown&label=LAST+UPDATE&color=29bf12&style=flat">
 
