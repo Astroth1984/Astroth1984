@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-<a href="https://codepen.io/astroth1984" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/codepen.svg" alt="astroth1984" height="30" width="30" /></a>
+<a href="https://codepen.io/astroth1984" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="astroth1984" height="30" width="30" /></a>
 <a href="https://twitter.com/abiir07" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="abiir07" height="30" width="30" /></a>
 <a href="https://linkedin.com/in/abirelhalimi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="abir-el-halimi-6a404048" height="30" width="30" /></a>
 </p><br/>
