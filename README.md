@@ -74,7 +74,7 @@ Here are some ideas to get you started:
 
 
 <b>🔥 Github Streaks</b>
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Astroth1984&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=29bf12&fire=29bf12&currStreakLabel=e05397&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="Astroth1984" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Astroth1984&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=29bf12&fire=29bf12&currStreakLabel=29bf12&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="Astroth1984" /></p>
 
 
 
