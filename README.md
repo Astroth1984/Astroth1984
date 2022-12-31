@@ -181,7 +181,7 @@ Here are some ideas to get you started:
 <hr>
 
 <p align="center">
-  <img src="https://github.com/astroth1984/astroth1984/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+  <img src="https://github.com/Astroth1984/Astroth1984/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
 
 
