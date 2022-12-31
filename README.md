@@ -95,7 +95,7 @@ Here are some ideas to get you started:
 
 
 
-<h1 align="center" >Hi <img src="https://cdn.dribbble.com/users/84227/screenshots/2808177/rock.gif" 
+<h1 align="center" >Hi <img src="https://i.pinimg.com/originals/ed/ec/da/edecda2ef7e8acdd3530244f770bef62.gif" 
          alt="Waving hand animated gif"
          height="45"
                             width="45" /> there, I'm <a href="https://github.com/Astroth1984"> Othmane (Astroth1984)</a> </h1>
