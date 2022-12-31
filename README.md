@@ -109,7 +109,8 @@ Here are some ideas to get you started:
 </div>
 
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=tarikmanoar.tarikmanoar)
+<!-- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=tarikmanoar.tarikmanoar) -->
+<img alt="Visitors" src="https://komarev.com/ghpvc/?username=Astroth1984&style=flat&labelColor=black&logo=github&label=PROFILE+VIEWS&color=29bf12"/>
 
 <br />
 
