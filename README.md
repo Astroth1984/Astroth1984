@@ -30,11 +30,11 @@ Here are some ideas to get you started:
 
  -->
 
-<!-- ### Stats
+### Stats
 
 [![Astroth1984 GitHub stats](https://github-readme-stats.vercel.app/api?username=Astroth1984&count_private=true&show_icons=true&theme=chartreuse-dark)](https://github.com/Astroth1984)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Astroth1984&layout=compact&theme=chartreuse-dark)](https://github.com/Astroth1984)
 
- -->
+
 <!-- ### Languages
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
