@@ -108,6 +108,13 @@ Here are some ideas to get you started:
 <a href="https://join.skype.com/"><img src="https://img.shields.io/badge/-Skype-00aff0?style=flat&logo=skype&logoColor=white"/></a>
 </div>
 
+<p align="center">
+<a href="https://codepen.io/astroth1984" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="astroth1984" height="30" width="30" /></a>
+  <a href="https://codesandbox.io/dashboard/home?workspace=fcd9c835-d4e5-4930-9e6d-ac0ea4f9c61e" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="astroth1984" height="30" width="30" /></a>
+<a href="https://stackoverflow.com/users/10167565/elmounir-othmane" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="astroth1984" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/el-mounir-othmane-21ab46147/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="el-mounir-othmane" height="30" width="30" /></a>
+</p><br/>
+
 
 <!-- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=tarikmanoar.tarikmanoar) -->
 <img alt="Visitors" src="https://komarev.com/ghpvc/?username=Astroth1984&style=flat&labelColor=black&logo=github&label=PROFILE+VIEWS&color=29bf12"/>
