@@ -123,7 +123,7 @@ Here are some ideas to get you started:
 </p>
 
 
-<hr>
+
 
 
 **Languages :**  
@@ -133,7 +133,7 @@ Here are some ideas to get you started:
 |:-:|:-:|:-:|:-:|:-:|---|
 |  <code><img height="50" src="icons/Java_logo.png"></code> |  <code><img height="50" src="icons/ts.png"></code>  | <code><img height="50" src="icons/js.png"></code>  |  <code><img height="50" src="icons/html.png"></code> |  <code><img height="50" src="icons/css.png"></code> | |
 
-<hr>
+<br>
 
 **Back-End Frameworks :**  
 
