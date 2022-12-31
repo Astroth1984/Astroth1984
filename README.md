@@ -124,6 +124,19 @@ Here are some ideas to get you started:
 
 
 
+## My GitHub Stats
+<div>
+<!-- <img align="center" width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Astroth1984&theme=chartreuse-dark" alt="astroth1984" /> -->
+<!-- <img align="center" width="49%"  src="https://github-readme-stats.vercel.app/api?username=Astroth1984&show_icons=true&locale=en&theme=chartreuse-dark" alt="Astroth1984" />
+</div>
+<a href="https://github.com/Astroth1984" target="_blank">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Astroth1984&theme=chartreuse-dark" />
+</a> 
+<br> -->
+  
+ [![Astroth1984 GitHub stats](https://github-readme-stats.vercel.app/api?username=Astroth1984&count_private=true&show_icons=true&theme=chartreuse-dark)](https://github.com/Astroth1984)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Astroth1984&layout=compact&theme=chartreuse-dark)](https://github.com/Astroth1984)
+
+  <hr>
 
 
 **Languages :**  
@@ -203,9 +216,8 @@ Here are some ideas to get you started:
 </a> 
 <br> -->
   
-  [![Astroth1984 GitHub stats](https://github-readme-stats.vercel.app/api?username=Astroth1984&count_private=true&show_icons=true&theme=chartreuse-dark)](https://github.com/Astroth1984)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Astroth1984&layout=compact&theme=chartreuse-dark)](https://github.com/Astroth1984)
+ [![Astroth1984 GitHub stats](https://github-readme-stats.vercel.app/api?username=Astroth1984&count_private=true&show_icons=true&theme=chartreuse-dark)](https://github.com/Astroth1984)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Astroth1984&layout=compact&theme=chartreuse-dark)](https://github.com/Astroth1984)
 
-<b>🔥 Github Streaks</b>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Astroth1984&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=29bf12&fire=29bf12&currStreakLabel=29bf12&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="Astroth1984" /></p>
 
 
