@@ -152,10 +152,10 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tarikmanoar&repo=kajki&theme=radical" />
 </a>
 
-<!--
+
 | [![](https://github-readme-stats.vercel.app/api/top-langs/?username=tarikmanoar&theme=radical)](https://github.com/tarikmanoar, "Manoar's Github")  |  [![Tarik Manoar Github](https://github-readme-stats.vercel.app/api?username=tarikmanoar&show_icons=true&theme=radical&line_height=40 "Tarik Manoar Github")](https://github.com/tarikmanoar "Manoar's Github") |
 | :------------: | :------------: |
--->
+
 
 ## My GitHub Stats
 <div>
