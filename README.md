@@ -108,6 +108,8 @@ Here are some ideas to get you started:
 <a href="https://join.skype.com/"><img src="https://img.shields.io/badge/-Skype-00aff0?style=flat&logo=skype&logoColor=white"/></a>
 </div>
 
+<br/>
+
 <p align="center">
 <a href="https://codepen.io/astroth1984" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="astroth1984" height="30" width="30" /></a>
   <a href="https://codesandbox.io/dashboard/home?workspace=fcd9c835-d4e5-4930-9e6d-ac0ea4f9c61e" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="astroth1984" height="30" width="30" /></a>
