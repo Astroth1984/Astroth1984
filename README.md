@@ -190,35 +190,7 @@ Here are some ideas to get you started:
 
 
 
-*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github.
 
-
-<!-- <a href="https://github.com/Astroth1984" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Astroth1984&show_icons=true&theme=radical&line_height=27" alt="Astroth1984's github stats" style="width: 685px;" />
-</a> -->
-<!-- <a href="https://github.com/Astroth1984" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Astroth1984&repo=html&theme=radical" />
-</a>    
-<a href="https://github.com/Astroth1984" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Astroth1984&repo=kajki&theme=radical" />
-</a> -->
-
-
-<!-- | [![](https://github-readme-stats.vercel.app/api/top-langs/?username=tarikmanoar&theme=radical)](https://github.com/tarikmanoar, "Manoar's Github")  |  [![Tarik Manoar Github](https://github-readme-stats.vercel.app/api?username=tarikmanoar&show_icons=true&theme=radical&line_height=40 "Tarik Manoar Github")](https://github.com/tarikmanoar "Manoar's Github") |
-| :------------: | :------------: | -->
-
-
-## My GitHub Stats
-<div>
-<!-- <img align="center" width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Astroth1984&theme=chartreuse-dark" alt="astroth1984" /> -->
-<!-- <img align="center" width="49%"  src="https://github-readme-stats.vercel.app/api?username=Astroth1984&show_icons=true&locale=en&theme=chartreuse-dark" alt="Astroth1984" />
-</div>
-<a href="https://github.com/Astroth1984" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Astroth1984&theme=chartreuse-dark" />
-</a> 
-<br> -->
-  
- [![Astroth1984 GitHub stats](https://github-readme-stats.vercel.app/api?username=Astroth1984&count_private=true&show_icons=true&theme=chartreuse-dark)](https://github.com/Astroth1984)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Astroth1984&layout=compact&theme=chartreuse-dark)](https://github.com/Astroth1984)
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Astroth1984&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=29bf12&fire=29bf12&currStreakLabel=29bf12&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="Astroth1984" /></p>
 
