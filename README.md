@@ -152,8 +152,6 @@ Here are some ideas to get you started:
 |:-:|:-:|:-:|:-:|:-:|---|
 |  <code><img height="50" src="icons/mongo.png"></code> |  <code><img height="50" src="icons/mysql.png"></code>  | <code><img height="50" src="icons/postgres.png"></code>  |  <code><img height="50" src="icons/oracle.png"></code> |  <code><img height="50" src="icons/sqlserver.png"></code> | |
 
-<hr>
-
 ### Tools
 ![Postman](https://img.shields.io/badge/-Postman-000?&logo=Postman)
 ![Swagger](https://img.shields.io/badge/-Swagger-000?&logo=Swagger)
@@ -163,6 +161,10 @@ Here are some ideas to get you started:
 ### OS
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 ![Windows](https://img.shields.io/badge/-Windows-000?&logo=Windows)
+
+<hr>
+
+
 
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github.
 
