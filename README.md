@@ -176,7 +176,7 @@ Here are some ideas to get you started:
 </p>
 
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/astroth1984/astroth1984/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/astroth1984/astroth1984/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 
 
