@@ -136,7 +136,7 @@ Here are some ideas to get you started:
 
 
 | Java | Typescript  |  Javascript | HTML  | CSS  |  |
-|:-:|:-:|:-:|:-:|:-:|---|
+||:-:|:-:|:-:|:-:|---|
 |  <code><img height="70" src="icons/java.png"></code> |  <code><img height="50" src="icons/ts.png"></code>  | <code><img height="50" src="icons/js.png"></code>  |  <code><img height="50" src="icons/html.png"></code> |  <code><img height="50" src="icons/css.png"></code> | |
 
 
