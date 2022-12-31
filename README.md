@@ -101,7 +101,7 @@ Here are some ideas to get you started:
                             width="45" /> there, I'm <a href="https://github.com/Astroth1984"> Othmane (Astroth1984)</a> </h1>
 <div align="center">
 <a href="mailto:othmane.elmn@gmail.com"><img src="https://img.shields.io/badge/-Mail Me-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://github.com/Astroth1984"><img src="https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white"/></a>
+<a href="https://astroth1984.netlify.app/"><img src="https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/othmane-el-mounir-21ab46147/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 <a href="https://twitter.com/"><img src="https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white"/></a>
 <a href="https://gitlab.com/"><img src="https://img.shields.io/badge/-GitLab-F29111?style=flat-square&labelColor=F29111&logo=gitlab&logoColor=white"/></a>
@@ -138,7 +138,7 @@ Here are some ideas to get you started:
 
 
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github.
-<!--
+
 <a href="https://github.com/tarikmanoar" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarikmanoar&theme=radical" />
 </a> 
@@ -151,7 +151,7 @@ Here are some ideas to get you started:
 <a href="https://github.com/tarikmanoar" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tarikmanoar&repo=kajki&theme=radical" />
 </a>
--->
+
 <!--
 | [![](https://github-readme-stats.vercel.app/api/top-langs/?username=tarikmanoar&theme=radical)](https://github.com/tarikmanoar, "Manoar's Github")  |  [![Tarik Manoar Github](https://github-readme-stats.vercel.app/api?username=tarikmanoar&show_icons=true&theme=radical&line_height=40 "Tarik Manoar Github")](https://github.com/tarikmanoar "Manoar's Github") |
 | :------------: | :------------: |
