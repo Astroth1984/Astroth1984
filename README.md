@@ -142,6 +142,16 @@ Here are some ideas to get you started:
 |:-:|:-:|:-:|:-:|:-:|---|
 |  <code><img height="50" src="icons/spring.png"></code> |  <code><img height="50" src="icons/boot.png"></code>  | <code><img height="50" src="icons/node.png"></code>  |  <code><img height="50" src="icons/nest.png"></code> |  <code><img height="50" src="icons/express.png"></code> | |
 
+<br>
+
+
+**DataBases:**  
+
+
+| MongoDB | MySql  |  PostgreSql | Oracle  | SqlServer  |  |
+|:-:|:-:|:-:|:-:|:-:|---|
+|  <code><img height="50" src="icons/mongo.png"></code> |  <code><img height="50" src="icons/mysql.png"></code>  | <code><img height="50" src="icons/postgres.png"></code>  |  <code><img height="50" src="icons/oracle.png"></code> |  <code><img height="50" src="icons/sqlserver.png"></code> | |
+
 <hr>
 
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github.
