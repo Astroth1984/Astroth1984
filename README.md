@@ -140,9 +140,9 @@ Here are some ideas to get you started:
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github.
 
 
-<a href="https://github.com/Astroth1984" target="_blank">
+<!-- <a href="https://github.com/Astroth1984" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Astroth1984&show_icons=true&theme=radical&line_height=27" alt="Astroth1984's github stats" style="width: 685px;" />
-</a>
+</a> -->
 <!-- <a href="https://github.com/Astroth1984" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Astroth1984&repo=html&theme=radical" />
 </a>    
@@ -175,6 +175,9 @@ Here are some ideas to get you started:
   <img src="https://github.com/Astroth1984/Astroth1984/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
 
+
+![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
+![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
 
 
 
