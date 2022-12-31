@@ -126,19 +126,20 @@ Here are some ideas to get you started:
 
 
 
-**Languages and Tools:**  
-
-
- 
-
-
- 
+**Languages :**  
 
 
 | Java | Typescript  |  Javascript | HTML  | CSS  |  |
 |:-:|:-:|:-:|:-:|:-:|---|
 |  <code><img height="50" src="icons/Java_logo.png"></code> |  <code><img height="50" src="icons/ts.png"></code>  | <code><img height="50" src="icons/js.png"></code>  |  <code><img height="50" src="icons/html.png"></code> |  <code><img height="50" src="icons/css.png"></code> | |
 
+
+**Back-End Frameworks :**  
+
+
+| Spring | Spring Boot  |  NodeJs | NestJs  | Express  |  |
+|:-:|:-:|:-:|:-:|:-:|---|
+|  <code><img height="50" src="icons/Java_logo.png"></code> |  <code><img height="50" src="icons/ts.png"></code>  | <code><img height="50" src="icons/js.png"></code>  |  <code><img height="50" src="icons/html.png"></code> |  <code><img height="50" src="icons/css.png"></code> | |
 
 
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github.
