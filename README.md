@@ -114,6 +114,10 @@ Here are some ideas to get you started:
 
 <br />
 
+<p align='center'>
+    <img src="https://gidigi.com/cdn/love.gif">
+</p>
+
 <p style="display: flex; justify-contect: space-between;">
 <img style="border-radius: 5px; margin: 0 0 5px 35px;" alt="GIF" width="100%" src="relax.gif" />
 </p>
