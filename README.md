@@ -144,6 +144,15 @@ Here are some ideas to get you started:
 
 <br>
 
+**Front-End Frameworks :**  
+
+
+| Angular | ReactJs  |  React Native | GraphQL  | Redux  |  |
+|:-:|:-:|:-:|:-:|:-:|---|
+|  <code><img height="50" src="icons/angular.png"></code> |  <code><img height="50" src="icons/react.png"></code>  | <code><img height="50" src="icons/reactn.png"></code>  |  <code><img height="50" src="icons/graph.png"></code> |  <code><img height="50" src="icons/redux.png"></code> | |
+
+<br>
+
 
 **DataBases:**  
 
