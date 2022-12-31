@@ -171,12 +171,8 @@ Here are some ideas to get you started:
 
 <hr>
 
-<p align="center">
-  <img src="https://github.com/Astroth1984/Astroth1984/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p>
+![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
-
-![github contribution grid snake animation](https://raw.githubusercontent.com/astroth1984/astroth1984/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/astroth1984/astroth1984/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 
 
