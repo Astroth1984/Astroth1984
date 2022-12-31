@@ -98,7 +98,7 @@ Here are some ideas to get you started:
 <h1 align="center" >Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
          height="45"
-                            width="45" /> there, I'm <a href="https://tarikmanoar.github.io"> Othmane (Astroth1984)</a> </h1>
+                            width="45" /> there, I'm <a href="https://github.com/Astroth1984"> Othmane (Astroth1984)</a> </h1>
 <div align="center">
 <a href="mailto:othmane.elmn@gmail.com"><img src="https://img.shields.io/badge/-Mail Me-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://github.com/Astroth1984"><img src="https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white"/></a>
