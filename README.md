@@ -172,7 +172,7 @@ Here are some ideas to get you started:
 **DataBases:**  
 
 
-| MongoDB | MySql  |  PostgreSql | Oracle  | SqlServer  |  |
+| MongoDB | MySQL  |  PostgreSQL | Oracle  | SQLServer  |  |
 |:-:|:-:|:-:|:-:|:-:|---|
 |  <code><img height="50" src="icons/mongo.png"></code> |  <code><img height="50" src="icons/mysql.png"></code>  | <code><img height="50" src="icons/postgres.png"></code>  |  <code><img height="50" src="icons/oracle.png"></code> |  <code><img height="50" src="icons/sqlserver.png"></code> | |
 
