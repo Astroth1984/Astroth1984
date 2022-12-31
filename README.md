@@ -153,25 +153,25 @@ Here are some ideas to get you started:
 </a>
 
 
-| [![](https://github-readme-stats.vercel.app/api/top-langs/?username=tarikmanoar&theme=radical)](https://github.com/tarikmanoar, "Manoar's Github")  |  [![Tarik Manoar Github](https://github-readme-stats.vercel.app/api?username=tarikmanoar&show_icons=true&theme=radical&line_height=40 "Tarik Manoar Github")](https://github.com/tarikmanoar "Manoar's Github") |
-| :------------: | :------------: |
+<!-- | [![](https://github-readme-stats.vercel.app/api/top-langs/?username=tarikmanoar&theme=radical)](https://github.com/tarikmanoar, "Manoar's Github")  |  [![Tarik Manoar Github](https://github-readme-stats.vercel.app/api?username=tarikmanoar&show_icons=true&theme=radical&line_height=40 "Tarik Manoar Github")](https://github.com/tarikmanoar "Manoar's Github") |
+| :------------: | :------------: | -->
 
 
 ## My GitHub Stats
 <div>
-<img align="center" width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=tarikmanoar&theme=radical" alt="tarikmanoar" />
-<img align="center" width="49%"  src="https://github-readme-stats.vercel.app/api?username=tarikmanoar&show_icons=true&locale=en&theme=radical" alt="tarikmanoar" />
+<img align="center" width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Astroth1984&theme=radical" alt="astroth1984" />
+<img align="center" width="49%"  src="https://github-readme-stats.vercel.app/api?username=Astroth1984&show_icons=true&locale=en&theme=radical" alt="Astroth1984" />
 </div>
 <br>
 
 
-![](https://activity-graph.herokuapp.com/graph?username=tarikmanoar&theme=redical)
+![](https://activity-graph.herokuapp.com/graph?username=Astroth1984&theme=redical)
 
 
 <hr>
 
 <p align="center">
-  <img src="https://github.com/tarikmanoar/tarikmanoar/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+  <img src="https://github.com/Astroth1984/Astroth1984/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
 
 
