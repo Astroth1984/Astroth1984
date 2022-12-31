@@ -125,6 +125,8 @@ Here are some ideas to get you started:
 
 
 ## My GitHub Stats
+
+*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github.
 <div>
 <!-- <img align="center" width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Astroth1984&theme=chartreuse-dark" alt="astroth1984" /> -->
 <!-- <img align="center" width="49%"  src="https://github-readme-stats.vercel.app/api?username=Astroth1984&show_icons=true&locale=en&theme=chartreuse-dark" alt="Astroth1984" />
