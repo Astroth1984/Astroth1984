@@ -161,11 +161,11 @@ Here are some ideas to get you started:
 
 ## My GitHub Stats
 <div>
-<img align="center" width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Astroth1984&theme=radical" alt="astroth1984" />
-<img align="center" width="49%"  src="https://github-readme-stats.vercel.app/api?username=Astroth1984&show_icons=true&locale=en&theme=radical" alt="Astroth1984" />
+<img align="center" width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Astroth1984&theme=chartreuse-dark" alt="astroth1984" />
+<img align="center" width="49%"  src="https://github-readme-stats.vercel.app/api?username=Astroth1984&show_icons=true&locale=en&theme=chartreuse-dark" alt="Astroth1984" />
 </div>
 <a href="https://github.com/Astroth1984" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Astroth1984&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Astroth1984&theme=chartreuse-dark" />
 </a> 
 <br>
 
