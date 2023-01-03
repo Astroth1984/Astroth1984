@@ -168,7 +168,7 @@ Here are some ideas to get you started:
 
 <br>
 
-**Front-End Frameworks :**  
+**Front-End Frameworks & Libraries :**  
 
 
 | Angular | ReactJs  |  React Native | GraphQL  | Redux  |  |
